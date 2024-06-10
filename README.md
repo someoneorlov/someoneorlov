@@ -13,14 +13,17 @@
 </div>
 
 ## 👋 About me
-- 🔭 I’m currently working as a Data Scientist and lead PGK Digital's Predictive Repair team, which focuses on modeling rail car breakdowns using railway sensor data.
-- ⌛ Previously, I worked as a data scientist at Sberbank, the TOP-1 bank in the CIS, where I developed models for optimal credit exposure, default probability assessment, and customer segmentation tailored for corporate business.
+- 🔭 I'm currently working as a Machine Learning Engineer in Rocky's Cloud ML team, which focuses on delivering AI and cloud solutions. 
+- ⌛ Previously, I worked as a Data Science Team Lead at PGK Digital's Predictive Repair team, which focuses on modeling rail car breakdowns using railway sensor data.
+- ⌛ Before that I worked as a data scientist at Sberbank, the TOP-1 bank in the CIS, where I developed models for optimal credit exposure, default probability assessment, and customer segmentation tailored for corporate business.
 - 🕺 I have over five years of experience as a project manager, leading cross-functional teams on projects for major Russian and international companies across various industries, primarily in e-commerce.
-- 🌱 I'm working on a [STYX](https://github.com/someoneorlov/styx) project. I's the full ML project cycle with my Custom News Aggregator & Sentiment Analyzer. Using MLOps and NLP, I'm honing skills in developing and deploying ML solutions, like named entity recognition and sentiment analysis, while tackling challenges in news relevance accuracy.
+- 🌱 I'm working on a [STYX](https://github.com/someoneorlov/styx) project. I's the full cycle ML project with AI News Aggregator & Sentiment Analyzer.
 
 ## 🛠️ Languages and tools
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="python" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" width="50" height="50"/>&nbsp;
+<img src="static/hf-logo.svg" title="hugging-face" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="docker" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" title="fastapi" width="50" height="50"/>&nbsp;
@@ -30,7 +33,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" title="numpy" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="pandas" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" width="50" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" title="pytorch" width="50" height="50"/>&nbsp;
           
 ## 🐶 Pet-projects
   
