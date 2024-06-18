@@ -34,7 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" title="pandas" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" width="50" height="50"/>&nbsp;
           
-## 🐶 Pet-projects
+## 🐶 Projects
   
 [![Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=someoneorlov&repo=styx&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/someoneorlov/styx)
 
